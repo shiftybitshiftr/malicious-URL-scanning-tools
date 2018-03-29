@@ -1,9 +1,7 @@
 # Tools for Investigating Malicious URLs
 Free online resources for real-time investigation, threat intelligence, and historical and reputational data. Some sites and services may require registration before use.
 
-Taken from [this Medium post](https://medium.com/@0x736A/tools-for-investigating-malicious-urls-d013121c8650).
-
-All credit to [0x736A](https://twitter.com/0x736A)
+Originally created by [0x736A](https://twitter.com/0x736A) in [this Medium post](https://medium.com/@0x736A/tools-for-investigating-malicious-urls-d013121c8650)
 
 - [AlienVault OTX](https://otx.alienvault.com/): Open threat intelligence community
 - [ANY.RUN](https://app.any.run/): Interactive malware analysis service
