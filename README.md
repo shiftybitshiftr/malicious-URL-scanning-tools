@@ -1,6 +1,6 @@
 # malcious-URL-scanning-tools
-##Tools for Investigating Malicious URLs
-##Free online resources for real-time investigation, threat intelligence, and historical and reputational data. Some sites and services may require registration before use.
+#Tools for Investigating Malicious URLs
+#Free online resources for real-time investigation, threat intelligence, and historical and reputational data. Some sites and services may require registration before use.
 #Taken from: https://medium.com/@0x736A/tools-for-investigating-malicious-urls-d013121c8650
 #Credit to: https://twitter.com/0x736A
 
